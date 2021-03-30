@@ -1,0 +1,7 @@
+C:\Users\simon\source\repos\BalintCsilla210324dlgzt\BalintCsilla210324dlgzt\bin\Debug\BalintCsilla210324dlgzt.exe.config
+C:\Users\simon\source\repos\BalintCsilla210324dlgzt\BalintCsilla210324dlgzt\bin\Debug\BalintCsilla210324dlgzt.exe
+C:\Users\simon\source\repos\BalintCsilla210324dlgzt\BalintCsilla210324dlgzt\bin\Debug\BalintCsilla210324dlgzt.pdb
+C:\Users\simon\source\repos\BalintCsilla210324dlgzt\BalintCsilla210324dlgzt\obj\Debug\BalintCsilla210324dlgzt.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\BalintCsilla210324dlgzt\BalintCsilla210324dlgzt\obj\Debug\BalintCsilla210324dlgzt.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\BalintCsilla210324dlgzt\BalintCsilla210324dlgzt\obj\Debug\BalintCsilla210324dlgzt.exe
+C:\Users\simon\source\repos\BalintCsilla210324dlgzt\BalintCsilla210324dlgzt\obj\Debug\BalintCsilla210324dlgzt.pdb
